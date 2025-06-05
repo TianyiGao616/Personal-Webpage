@@ -15,6 +15,9 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+plausible: {
+  domain: "tianyigao.me",
+},
     locale: "en-US",
     baseUrl:"https://tianyigao616.github.io/Personal-Webpage",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -26,7 +29,7 @@ const config: QuartzConfig = {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
-      }
+      },
       colors: {
         lightMode: {
           light: "#faf8f8",
