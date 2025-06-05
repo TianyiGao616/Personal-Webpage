@@ -15,9 +15,6 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    plausible: {
-       domain: "tianyigao.me",
-    },
     locale: "en-US",
     baseUrl:"https://tianyigao616.github.io/Personal-Webpage",
     ignorePatterns: ["private", "templates", ".obsidian"],
