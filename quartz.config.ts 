@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "",
-    pageTitleSuffix: "Tianyi Gao",
+    pageTitle: "Quartz 4",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    plausible: {
-       domain: "tianyigao.me",
-    },
+plausible: {
+  domain: "tianyigao.me",
+},
     locale: "en-US",
     baseUrl:"https://tianyigao616.github.io/Personal-Webpage",
     ignorePatterns: ["private", "templates", ".obsidian"],
