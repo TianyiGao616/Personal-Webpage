@@ -2,9 +2,7 @@
 title: Welcome to my personal page!
 ---
 
-<p align="center">
-  <img src="/tianyi.jpg" alt="Tianyi Gao" width="180" style="border-radius: 50%;" />
-</p>
+
 
 
 
