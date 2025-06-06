@@ -11,18 +11,6 @@ Feel free to explore more about me through the links below:
 - [Research](Research.md)
 - [Projects](Projects.md)
 
-<figure style="display: block; text-align: center;">
-  <img
-    src="/me.jpg"
-    alt="A photo of me with my Jellycat Golden Retriever"
-    width="250"
-    style="display: block; margin: 0 auto;"
-  />
-  <figcaption style="margin-top: 0.5em; font-style: italic;">
-    Here I am with my Jellycat Golden Retriever.
-  </figcaption>
-</figure>
-
 
 <p align="center">
   <img src="/me.jpg" alt="Me with Jellycat Golden Retriever" width="250" style="border-radius: 10px;" />
