@@ -11,7 +11,6 @@ Feel free to explore more about me through the links below:
 - [Research](Research.md)
 - [Projects](Projects.md)
 
-
 <figure style="display: block; text-align: center;">
   <img
     src="/me.jpg"
@@ -25,6 +24,10 @@ Feel free to explore more about me through the links below:
 </figure>
 
 
+<p align="center">
+  <img src="/me.jpg" alt="Me with Jellycat Golden Retriever" width="250" style="border-radius: 10px;" />
+</p>
 
-
-
+<p align="center">
+  <em>Here I am with my Jellycat Golden Retriever.</em>
+</p>
