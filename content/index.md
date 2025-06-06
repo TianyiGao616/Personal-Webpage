@@ -1,7 +1,8 @@
 ---
 title: Welcome to my personal page!
 ---
-<img src="/tianyi.jpg" alt="Tianyi Gao" width="180" style="border-radius: 50%;" />
+![Alt text](/tianyi.jpg)
+
 
 
 
